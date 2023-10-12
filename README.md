@@ -13,3 +13,5 @@ Este repositório contém as atividades desenvolvidas durante o curso de Python 
 - **Instrutor:** Profº Luiz Otávio Miranda
 - **Total de Aulas:** 23 seções • 748 aulas
 - **Duração Total:** 141 horas e 13 minutos
+
+test
